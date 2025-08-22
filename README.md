@@ -1,3 +1,6 @@
+# Rohith_G
+This repository contains solutions for the Full Stack Developer screening test at Tandemloop. It includes four basic programming exercises implemented in Java. Each solution is provided in a separate file following the given instructions.
+
 # Tandemloop Screening Test - Full Stack Developer
 
 **Candidate:** Rohith G  
